@@ -10,9 +10,9 @@
 
 [Burger menu, two accardinones, and a custom slider. Used: Parcel.js, HTML5, SCSS(variables(font-size, color, screens, fonts), ::affter, mobile-first, kebab-case), JS](https://modest-turing-2ef620.netlify.app/)
 
-[Online shop. Used: VUE, HTML5, SCSS, jQuery, JS.](https://festive-benz-e4d8ac.netlify.app/)
+[Used: VUE, HTML5, SCSS, jQuery, JS.](https://festive-benz-e4d8ac.netlify.app/)
 
-#### **In February 2021 he completed the courses Front-End at the Beetroot Academy ([final project used: VUE, VUEX, HTML5, SCSS, JS](https://keen-goodall-5cd28c.netlify.app/)). I have been working as a freelance since April 2021 (technologies: GULP.JS, PUG, SASS, JS)**
+#### **In February 2021 he completed the courses Front-End at the Beetroot Academy ([final project "Online shop" used: VUE, VUEX, HTML5, SCSS, JS](https://keen-goodall-5cd28c.netlify.app/)). I have been working as a freelance since April 2021 (technologies: GULP.JS, PUG, SASS, JS)**
 
 
 #### **Kremenchuk National University, specialist, transport engineer.**
