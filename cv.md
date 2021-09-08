@@ -1,7 +1,7 @@
-##Yan Dvornitskyi##
+##Yan Dvornitskyi
 
-###Phone, Telegram, Viber: +38-097-676-26-88###
-###Email: dvornitskyi@gmail.com###
+###Phone, Telegram, Viber: +38-097-676-26-88
+###Email: dvornitskyi@gmail.com
 
 **I have 5 years experience as a salesman in a Moyo store, where I got a hobby of creating websites. There was a reform In Ukrainian police in 2015 and I got a job there. 5 years later I returned to my hobby of creating websites and decided to take a Front-End course at the Beetroot Academy. After completing the course, I went to freelance, where I created websites using PUG, SASS and JavaScript which was later incorporated into Drupal by client. My hobby is computers, install Windows, or replacing the old HDD with a new SDD is not a problem, I am the family sysadmin.**
 
