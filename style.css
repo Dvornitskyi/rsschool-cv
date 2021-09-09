@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: black;
+    line-height: 24px;
+}
+ul{
+    list-style: none;
+}
+/* a{
+    
+} */
+h3{
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+body{
+    background-color: white;
+    padding: 20px;
+}
+.sector {
+    width: 800px;
+    display: flex;
+    background-color: white;
+    margin: 0 auto;
+}
+.left {
+    width: 220px;
+}
+.foto {
+    width: 220px;
+    height: 300px;
+    object-fit: cover;
+}
+.right {
+    width: 580px;
+    padding-left: 20px;
+}
+.link {
+    font-size: 14px;
+    font-weight: 600;
+}
+.link:hover{
+    color: blue;
+}
+.link-text {
+    font-size: 14px;
+}
