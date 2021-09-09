@@ -8,9 +8,6 @@
 ul{
     list-style: none;
 }
-/* a{
-    
-} */
 h3{
     margin-top: 10px;
     margin-bottom: 5px;
@@ -19,13 +16,13 @@ body{
     background-color: white;
     padding: 20px;
 }
-.sector {
+main {
     width: 800px;
     display: flex;
     background-color: white;
     margin: 0 auto;
 }
-.left {
+aside {
     width: 220px;
 }
 .foto {
@@ -33,7 +30,7 @@ body{
     height: 300px;
     object-fit: cover;
 }
-.right {
+section {
     width: 580px;
     padding-left: 20px;
 }
