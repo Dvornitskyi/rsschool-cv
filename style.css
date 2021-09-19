@@ -5,6 +5,10 @@
     color: black;
     line-height: 24px;
 }
+iframe{
+    width: 560px;
+    height: 315px;
+} 
 ul{
     list-style: none;
 }
@@ -43,4 +47,51 @@ section {
 }
 .link-text {
     font-size: 14px;
+}
+@media (max-width: 800px){
+    main {
+        width: 580px;
+        display: flex;
+        flex-direction: column;
+    }
+    aside{
+        width: 580px;
+        display: flex;
+        justify-content: space-between;
+        padding-left: 20px;
+        margin-bottom: 20px;
+    }
+    .contact{
+        width: 160px;
+    }
+    section {
+        width: 580px;
+        padding-left: 20px;
+    }
+    h3:first-of-type{
+        margin-top: 0px;
+    }
+}
+@media (max-width: 650px){
+    main {
+        width: 280px;
+    }
+    aside{
+        width: 280px;
+    }
+    .contact{
+        width: 160px;
+    }
+    section {
+        width: 280px;
+    }
+    .foto {
+        width: 110px;
+        height: 150px;
+        object-fit: cover;
+    }
+    iframe{
+        width: 260px;
+        height: 130px;
+    } 
 }
